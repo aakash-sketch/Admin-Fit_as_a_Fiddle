@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">photos</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">1KEvGEidEBSjWXg3zS5pz8w7wHd0inzleNL8BIGI</string>
+    <string name="back4app_client_key">w0984HMhUooEoTAOCEA8kUIqgqu0WDUcfWRtg4z1</string>
+
+<!--    <string-array name="country_arrays">-->
+<!--        <item>Frace</item>-->
+<!--        <item>United States</item>-->
+<!--        <item>Indonesia</item>-->
+<!--        <item>France</item>-->
+<!--        <item>Italy</item>-->
+<!--        <item>Singapore</item>-->
+<!--        <item>New Zealand</item>-->
+<!--        <item>India</item>-->
+<!--    </string-array>-->
+</resources>
